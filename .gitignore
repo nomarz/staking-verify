@@ -1,0 +1,5 @@
+/staking-verify
+*.ndjson
+*.json
+!go.sum.json
+dist/
